@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SHINDO",
+  "base_artist": "玉森裕太&宮田俊哉",
+  "createdAt": "2026-02-18T08:06:35.075363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shindo-Kaku",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_Shindo-Kaku_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shindo-Kaku (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Shindo-Kaku_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shindo",
+      "artist": "Less Than Jake",
+      "has_synced": true,
+      "path": "select/03_Shindo_Less_Than_Jake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shindo-Kaku",
+      "artist": "ASIAN KUNG‐FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Shindo-Kaku_ASIAN_KUNG‐FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shindo-Kaku (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Shindo-Kaku_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shindo-Kaku",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_Shindo-Kaku_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Resonance (Shindo-Kaku)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_Resonance_(Shindo-Kaku)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shindo",
+      "artist": "Less Than Jake",
+      "has_synced": false,
+      "path": "select/08_Shindo_Less_Than_Jake.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "05 Shindo",
+      "artist": "Less Than Jake",
+      "has_synced": true,
+      "path": "select/09_05_Shindo_Less_Than_Jake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shindo",
+      "artist": "Chainsuck",
+      "has_synced": true,
+      "path": "select/10_Shindo_Chainsuck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Resonnance (Shindo-Kaku)",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/11_Resonnance_(Shindo-Kaku)_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shindo-kaku",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/12_Shindo-kaku_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHINDO",
+      "artist": "玉森裕太 & 宮田俊哉",
+      "has_synced": false,
+      "path": "select/pl_01_SHINDO_玉森裕太_&_宮田俊哉.txt"
+    }
+  ]
+}
